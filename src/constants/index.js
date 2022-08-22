@@ -1,0 +1,5 @@
+export const FILTER_TIME_LATEST_SALE = {
+  WEEK: "WEEK",
+  MONTH: "MONTH",
+  QUARTER: "QUARTER",
+};
